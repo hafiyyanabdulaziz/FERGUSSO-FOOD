@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1543366485 source:d:\hapus\hafi lab\hafi food\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<iomanip>
+	<time.h>
+
+1543366485 source:c:\users\hafiyyan abdul aziz\onedrive - telkom university\kuliah\semester 3\pemrograman berorientasi objek\latihan\tubes\fergusso food\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<conio.h>
+	<iomanip>
+	<time.h>
+
